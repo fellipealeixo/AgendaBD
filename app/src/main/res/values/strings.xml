@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agenda de Contatos</string>
+
+    <string name="titulo">Contatos Cadastrados</string>
+    <string name="btnInsere">Novo Contato</string>
+    <string name="btnFechar">Fechar</string>
+
+    <string name="semContatos">Nenhum contato cadastrado!</string>
+    
+    <string name="tituloForm">Cadastro de Novo Contato</string>
+    <string name="nome">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="btnInsereBanco">Insere</string>
+    <string name="btnVoltar">Voltar</string>
+</resources>
